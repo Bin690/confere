@@ -2,7 +2,7 @@
 
 > **Rascunho.** Este texto deve ser revisto por um profissional jurídico antes do lançamento público.
 
-*Última atualização: [data]*
+*Última atualização: 12-10-2026*
 
 ## Em resumo
 
@@ -40,4 +40,4 @@ O site é alojado em [fornecedor de alojamento]. Como qualquer servidor web, o f
 
 ## Contacto
 
-[email de contacto]
+bin.profissional@gmail.com
